@@ -21,7 +21,7 @@ volume.
 
 ### How I work
 
-Vibecoded first drafts, verified second drafts. A model will hand you something
+AI-assisted, and the assistance is the easy half. A model will hand you something
 shaped exactly like a working system, and the shape is not the system — so the
 non-negotiables are: run it, test it, read the diff.
 
