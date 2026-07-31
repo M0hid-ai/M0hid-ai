@@ -1,6 +1,6 @@
 ## Mohid Fida
 
-Automation and AI agents for back-office operations. Karachi.
+Automation and AI agents for back-office operations.
 
 The work is usually some version of: a person is doing a thing 200 times a month,
 and shouldn't be.
