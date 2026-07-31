@@ -50,9 +50,9 @@ making sense at volume.
 
 ## How I work
 
-I lean on AI heavily, and the leaning is the easy part. A model will hand you
-something shaped exactly like a working system, and the shape is not the system. So
-I run it, test it, and read the diff before I believe any of it.
+Code is cheap now, and confidence is cheaper. Something can arrive shaped exactly
+like a working system without being one, so I run it, test it, and read the diff
+before I believe any of it.
 
 <details>
 <summary>What that looks like in practice</summary>
