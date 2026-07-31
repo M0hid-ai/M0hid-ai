@@ -50,9 +50,9 @@ making sense at volume.
 
 ## How I work
 
-Code is cheap now, and confidence is cheaper. Something can arrive shaped exactly
-like a working system without being one, so I run it, test it, and read the diff
-before I believe any of it.
+I don't trust code until I've run it, my own included. Things can look completely
+finished and still fall over the first time they meet real input, so everything I
+build gets a test I can run in a second or two, and I read the diff before pushing.
 
 <details>
 <summary>What that looks like in practice</summary>
