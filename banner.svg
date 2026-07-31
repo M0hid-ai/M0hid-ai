@@ -45,7 +45,8 @@
 
   <!-- name -->
   <text x="46" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-        font-size="50" font-weight="700" letter-spacing="2" fill="#00FF9C" filter="url(#glow)">MOHID FIDA</text>
+        font-size="50" font-weight="700" fill="#00FF9C" filter="url(#glow)"
+        textLength="330" lengthAdjust="spacing">MOHID FIDA</text>
 
   <!-- cursor -->
   <rect x="392" y="139" width="20" height="42" fill="#00FF9C" opacity="0.9">
